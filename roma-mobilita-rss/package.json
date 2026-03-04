@@ -1,0 +1,9 @@
+{
+  "name": "roma-mobilita-rss",
+  "version": "1.0.0",
+  "dependencies": {
+    "rss": "^1.2.2",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
